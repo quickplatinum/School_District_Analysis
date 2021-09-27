@@ -46,7 +46,7 @@ We can observe that after data cleanup the overall passing percentage number dec
 - Scores are tredning downwards slightly due to cleanup.
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
-1- First Change: Percentage of students that passed reading and maths. 
-2- Second Change: Average reading and average math scores.
-3- Third Change: Overall passing perenctage.  
-4- Fourth Change: Slight change in budget per student and spending, with it being higher.
+- First Change: Percentage of students that passed reading and maths. 
+- Second Change: Average reading and average math scores.
+- Third Change: Overall passing perenctage.  
+- Fourth Change: Slight change in budget per student and spending, with it being higher.
