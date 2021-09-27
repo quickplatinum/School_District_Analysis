@@ -45,7 +45,7 @@ We can observe that after data cleanup the overall passing percentage number dec
 - When removing the 9th grade results, the scores by shcool size, THomas High School remains in the same Charter category
 - Scores are tredning downwards slightly due to cleanup.
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+## Summary: four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced:
 - First Change: Percentage of students that passed reading and maths. 
 - Second Change: Average reading and average math scores.
 - Third Change: Overall passing perenctage.  
